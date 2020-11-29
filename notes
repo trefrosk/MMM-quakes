@@ -1,0 +1,5 @@
+USGS API Documentation
+https://earthquake.usgs.gov/fdsnws/event/1/
+
+URL for latest 10 quakes within 1500 km of Palmer with magnitude of 4.5
+https://earthquake.usgs.gov/fdsnws/event/1/query?format=xml&latitude=61.598064&longitude=-149.132698&maxradiuskm=1500&limit=10&minmagnitude=4.5
